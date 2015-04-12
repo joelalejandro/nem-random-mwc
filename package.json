@@ -1,6 +1,6 @@
 {
   "name": "nem-random-mwc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple pseudo-random number generator, that uses the multiply-with-carry method invented by George Marsaglia.",
   "main": "index.js",
   "scripts": {
