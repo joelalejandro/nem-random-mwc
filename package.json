@@ -1,0 +1,17 @@
+{
+  "name": "nem-random-mwc",
+  "version": "0.0.1",
+  "description": "A simple pseudo-random number generator, that uses the multiply-with-carry method invented by George Marsaglia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "pseudo-random"
+  ],
+  "author": "Joel A. Villarreal Bertoldi",
+  "license": "MIT"
+}
