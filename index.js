@@ -1,8 +1,8 @@
 var randomMwc = module.exports = function(options) {
   var defaultOptions = { 
     seeds: [
-      new Date().valueOf(), 
-      parseInt(new Date().valueOf().toString().split("").reverse().join(""))
+      new Date().valueOf() + Math.random(), 
+      parseInt(new Date().valueOf().toString().split("").reverse().join("")) + Math.random()
     ],
     includeNegativeNumbers: false
   };
